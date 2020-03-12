@@ -1,0 +1,51 @@
+{
+    "Package Manager": {
+        "author": "Ivan Titov",
+        "source": "anvdev/Houdini-Package-Manager",
+        "source_type": "github"
+    },
+    "Tool Development Kit": {
+        "author": "Ivan Titov",
+        "source": "anvdev/Houdini_TDK",
+        "source_type": "github"
+    },
+    "Hammer": {
+        "author": "Ivan Titov",
+        "source": "anvdev/Hammer-Tools",
+        "source_type": "github"
+    },
+    "Advanced VEX Library": {
+        "author": "Ivan Titov",
+        "source": "AdvancedVEXLibrary/Advanced-VEX-Library",
+        "source_type": "github"
+    },
+    "HPaste": {
+        "author": "Anatolii Iudanov",
+        "source": "pedohorse/hpaste",
+        "source_type": "github"
+    },
+    "Map Zoomer": {
+        "author": "Anatolii Iudanov",
+        "source": "pedohorse/mapzoomer",
+        "source_type": "github"
+    },
+        "MOPs": {
+        "source": "toadstorm/MOPS",
+        "source_type": "github"
+    },
+    "qLib": {
+        "source": "qLab/qLib",
+        "source_type": "github"
+    },
+    "PDG Mutagen": {
+        "author": "Adrian Meyer",
+        "source": "MeyerAdrian/pdg_mutagen",
+        "source_type": "github",
+        "root": "houdini"
+    },
+    "MRP Mantra Shaders": {
+        "author": "Main Road Post",
+        "source": "MainRoadPost/houdini_configs",
+        "source_type": "github"
+    }
+}
