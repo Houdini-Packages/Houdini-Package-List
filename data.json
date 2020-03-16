@@ -29,7 +29,12 @@
         "source": "pedohorse/mapzoomer",
         "source_type": "github"
     },
-        "MOPs": {
+    "Gear Logic": {
+        "author": "Anatolii Iudanov",
+        "source": "pedohorse/gearlogic",
+        "source_type": "github"
+    },
+    "MOPs": {
         "source": "toadstorm/MOPS",
         "source_type": "github"
     },
@@ -46,6 +51,41 @@
     "MRP Mantra Shaders": {
         "author": "Main Road Post",
         "source": "MainRoadPost/houdini_configs",
+        "source_type": "github"
+    },
+    "Massive Toolkit": {
+        "author": "Jordi Bares",
+        "source": "jordibares/massive-toolkit-for-houdini",
+        "source_type": "github"
+    },
+    "DMNK Tools": {
+        "author": "Dominik Lingenover",
+        "source": "DominikLingenover/DMNK-Tools",
+        "source_type": "github"
+    },
+    "Mantra Fog Shader": {
+        "author": "Alexey Smolenchuk",
+        "source": "somesanctus/volumelight",
+        "source_type": "github"
+    },
+    "PhyShader (Mantra)": {
+        "author": "Roman Saldygashev",
+        "source": "groundflyer/physhader-for-mantra",
+        "source_type": "github"
+    },
+    "qq": {
+        "author": "Jiri Miratsky",
+        "source": "lex-ikoon/qq",
+        "source_type": "github"
+    },
+    "siLib": {
+        "author": "Andy Nicholas",
+        "source": "fxnut/siLib",
+        "source_type": "github"
+    },
+    "Deadline farm submission tool": {
+        "author": "Andy Nicholas",
+        "source": "fxnut/hou_farm",
         "source_type": "github"
     }
 }
