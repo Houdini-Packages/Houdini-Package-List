@@ -2,34 +2,44 @@
     "Package Manager": {
         "author": "Ivan Titov",
         "source": "anvdev/Houdini-Package-Manager",
-        "source_type": "github"
+        "source_type": "github",
+        "hversion_range": "17+"
     },
     "Tool Development Kit": {
         "author": "Ivan Titov",
         "source": "anvdev/Houdini_TDK",
-        "source_type": "github"
+        "source_type": "github",
+        "hversion_range": "17+"
     },
     "Hammer": {
+        "visible": false,
         "author": "Ivan Titov",
         "source": "anvdev/Hammer-Tools",
-        "source_type": "github"
+        "source_type": "github",
+        "hversion_range": "18.0.391+"
     },
     "Advanced VEX Library": {
+        "visible": false,
         "author": "Ivan Titov",
         "source": "AdvancedVEXLibrary/Advanced-VEX-Library",
-        "source_type": "github"
+        "source_type": "github",
+        "hversion_range": "16.5+"
     },
     "HPaste": {
         "author": "Anatolii Iudanov",
+        "description": "Simple and fast exchange of node networks through any messenger",
         "source": "pedohorse/hpaste",
-        "source_type": "github"
+        "source_type": "github",
+        "hversion_range": "15.5+"
     },
     "Map Zoomer": {
+        "visible": false,
         "author": "Anatolii Iudanov",
         "source": "pedohorse/mapzoomer",
         "source_type": "github"
     },
     "Gear Logic": {
+        "visible": false,
         "author": "Anatolii Iudanov",
         "source": "pedohorse/gearlogic",
         "source_type": "github"
@@ -39,51 +49,62 @@
         "source_type": "github"
     },
     "qLib": {
+        "visible": false,
+        "author": "qLab",
         "source": "qLab/qLib",
         "source_type": "github"
     },
     "PDG Mutagen": {
+        "visible": false,
         "author": "Adrian Meyer",
         "source": "MeyerAdrian/pdg_mutagen",
         "source_type": "github",
         "root": "houdini"
     },
     "MRP Mantra Shaders": {
+        "visible": false,
         "author": "Main Road Post",
         "source": "MainRoadPost/houdini_configs",
         "source_type": "github"
     },
     "Massive Toolkit": {
+        "visible": false,
         "author": "Jordi Bares",
         "source": "jordibares/massive-toolkit-for-houdini",
         "source_type": "github"
     },
     "DMNK Tools": {
+        "visible": false,
         "author": "Dominik Lingenover",
         "source": "DominikLingenover/DMNK-Tools",
         "source_type": "github"
     },
     "Mantra Fog Shader": {
+        "visible": false,
         "author": "Alexey Smolenchuk",
         "source": "somesanctus/volumelight",
         "source_type": "github"
     },
     "PhyShader (Mantra)": {
+        "visible": false,
         "author": "Roman Saldygashev",
         "source": "groundflyer/physhader-for-mantra",
         "source_type": "github"
     },
     "qq": {
+        "visible": false,
         "author": "Jiri Miratsky",
         "source": "lex-ikoon/qq",
         "source_type": "github"
     },
     "siLib": {
+        "visible": false,
         "author": "Andy Nicholas",
         "source": "fxnut/siLib",
         "source_type": "github"
     },
     "Deadline farm submission tool": {
+        "visible": false,
         "author": "Andy Nicholas",
         "source": "fxnut/hou_farm",
         "source_type": "github"
