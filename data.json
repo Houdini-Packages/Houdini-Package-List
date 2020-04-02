@@ -3,7 +3,7 @@
         "author": "Ivan Titov",
         "source": "anvdev/Houdini-Package-Manager",
         "source_type": "github",
-        "hversion_range": "17+"
+        "hversion_range": "16+"
     },
     "Tool Development Kit": {
         "author": "Ivan Titov",
@@ -30,29 +30,33 @@
         "description": "Simple and fast exchange of node networks through any messenger",
         "source": "pedohorse/hpaste",
         "source_type": "github",
-        "hversion_range": "15.5+"
+        "hversion_range": "16+"
     },
     "Map Zoomer": {
         "visible": false,
         "author": "Anatolii Iudanov",
         "source": "pedohorse/mapzoomer",
-        "source_type": "github"
+        "source_type": "github",
+        "hversion_range": "16.5+"
     },
     "Gear Logic": {
         "visible": false,
         "author": "Anatolii Iudanov",
         "source": "pedohorse/gearlogic",
-        "source_type": "github"
+        "source_type": "github",
+        "hversion_range": "16.5+"
     },
     "MOPs": {
         "source": "toadstorm/MOPS",
-        "source_type": "github"
+        "source_type": "github",
+        "hversion_range": "17+"
     },
     "qLib": {
         "visible": false,
         "author": "qLab",
         "source": "qLab/qLib",
-        "source_type": "github"
+        "source_type": "github",
+        "hversion_range": "17.5.321+",
     },
     "PDG Mutagen": {
         "visible": false,
@@ -101,7 +105,8 @@
         "visible": false,
         "author": "Andy Nicholas",
         "source": "fxnut/siLib",
-        "source_type": "github"
+        "source_type": "github",
+        "hversion_range": "15.5-16"
     },
     "Deadline farm submission tool": {
         "visible": false,
