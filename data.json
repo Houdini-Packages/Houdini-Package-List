@@ -56,7 +56,7 @@
         "author": "qLab",
         "source": "qLab/qLib",
         "source_type": "github",
-        "hversion_range": "17.5.321+",
+        "hversion_range": "17.5.321+"
     },
     "PDG Mutagen": {
         "visible": false,
