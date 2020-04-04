@@ -67,7 +67,8 @@
         "visible": false,
         "author": "Main Road Post",
         "source": "MainRoadPost/houdini_configs",
-        "source_type": "github"
+        "source_type": "github",
+        "hversion_range": "16.5+"
     },
     "Massive Toolkit": {
         "visible": false,
@@ -79,7 +80,8 @@
         "visible": false,
         "author": "Dominik Lingenover",
         "source": "DominikLingenover/DMNK-Tools",
-        "source_type": "github"
+        "source_type": "github",
+        "hversion_range": "17.5+"
     },
     "Mantra Fog Shader": {
         "visible": false,
@@ -91,13 +93,15 @@
         "visible": false,
         "author": "Roman Saldygashev",
         "source": "groundflyer/physhader-for-mantra",
-        "source_type": "github"
+        "source_type": "github",
+        "hversion_range": "15.5-15.5"
     },
     "qq": {
         "visible": false,
         "author": "Jiri Miratsky",
         "source": "lex-ikoon/qq",
-        "source_type": "github"
+        "source_type": "github",
+        "hversion_range": "16.5+"
     },
     "siLib": {
         "visible": false,
