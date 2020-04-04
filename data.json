@@ -4,7 +4,7 @@
         "source": "anvdev/Houdini-Package-Manager",
         "source_type": "github",
         "hversion_range": "16+",
-        "hlicense": "fx",
+        "hlicense": "commercial",
         "status": "stable"
     },
     "Tool Development Kit": {
@@ -12,7 +12,7 @@
         "source": "anvdev/Houdini_TDK",
         "source_type": "github",
         "hversion_range": "17+",
-        "hlicense": "fx",
+        "hlicense": "commercial",
         "status": "stable"
     },
     "Hammer": {
@@ -20,7 +20,7 @@
         "source": "anvdev/Hammer-Tools",
         "source_type": "github",
         "hversion_range": "18.0.425+",
-        "hlicense": "fx",
+        "hlicense": "commercial",
         "status": "dev"
     },
     "Advanced VEX Library": {
@@ -28,7 +28,7 @@
         "source": "AdvancedVEXLibrary/Advanced-VEX-Library",
         "source_type": "github",
         "hversion_range": "16.5+",
-        "hlicense": "fx",
+        "hlicense": "commercial",
         "status": "dev"
     },
     "HPaste": {
@@ -37,7 +37,7 @@
         "source": "pedohorse/hpaste",
         "source_type": "github",
         "hversion_range": "16+",
-        "hlicense": "fx",
+        "hlicense": "commercial",
         "status": "stable"
     },
     "Map Zoomer": {
@@ -45,7 +45,7 @@
         "source": "pedohorse/mapzoomer",
         "source_type": "github",
         "hversion_range": "16.5+",
-        "hlicense": "fx",
+        "hlicense": "commercial",
         "status": "exp"
     },
     "Gear Logic": {
@@ -53,7 +53,7 @@
         "source": "pedohorse/gearlogic",
         "source_type": "github",
         "hversion_range": "16.5+",
-        "hlicense": "fx",
+        "hlicense": "commercial",
         "status": "exp"
     },
     "MOPs": {
@@ -61,7 +61,7 @@
         "source": "toadstorm/MOPS",
         "source_type": "github",
         "hversion_range": "17+",
-        "hlicense": "fx",
+        "hlicense": "commercial",
         "status": "stable"
     },
     "qLib": {
@@ -70,7 +70,7 @@
         "source": "qLab/qLib",
         "source_type": "github",
         "hversion_range": "17.5.321+",
-        "hlicense": "fx",
+        "hlicense": "commercial",
         "status": "stable"
     },
     "PDG Mutagen": {
@@ -79,7 +79,7 @@
         "source": "MeyerAdrian/pdg_mutagen",
         "source_type": "github",
         "hversion_range": "17.5+",
-        "hlicense": "fx",
+        "hlicense": "commercial",
         "status": "exp",
         "root": "houdini"
     },
@@ -89,7 +89,7 @@
         "source": "MainRoadPost/houdini_configs",
         "source_type": "github",
         "hversion_range": "16.5+",
-        "hlicense": "fx",
+        "hlicense": "commercial",
         "status": "stable"
     },
     "Massive Toolkit": {
@@ -104,6 +104,7 @@
         "source": "DominikLingenover/DMNK-Tools",
         "source_type": "github",
         "hversion_range": "17.5+",
+        "hlicense": "commercial",
         "status": "stable"
     },
     "Mantra Fog Shader": {
@@ -112,7 +113,7 @@
         "source": "somesanctus/volumelight",
         "source_type": "github",
         "hversion_range": "16+",
-        "hlicense": "fx",
+        "hlicense": "commercial",
         "status": "exp"
     },
     "PhyShader (Mantra)": {
@@ -121,7 +122,7 @@
         "source": "groundflyer/physhader-for-mantra",
         "source_type": "github",
         "hversion_range": "15.5-15.5",
-        "hlicense": "fx",
+        "hlicense": "commercial",
         "status": "exp"
     },
     "qq": {
@@ -129,7 +130,8 @@
         "author": "Jiri Miratsky",
         "source": "lex-ikoon/qq",
         "source_type": "github",
-        "hversion_range": "16.5+"
+        "hversion_range": "16.5+",
+        "hlicense": "commercial"
     },
     "siLib": {
         "visible": false,
@@ -137,7 +139,7 @@
         "source": "fxnut/siLib",
         "source_type": "github",
         "hversion_range": "15.5-16.5",
-        "hlicense": "fx",
+        "hlicense": "commercial",
         "status": "exp"
     },
     "Deadline farm submission tool": {
@@ -146,6 +148,6 @@
         "source": "fxnut/hou_farm",
         "source_type": "github",
         "hversion_range": "16+",
-        "hlicense": "fx"
+        "hlicense": "commercial"
     }
 }
