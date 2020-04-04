@@ -4,16 +4,14 @@
         "source": "anvdev/Houdini-Package-Manager",
         "source_type": "github",
         "hversion_range": "16+",
-        "hlicense": "commercial",
-        "status": "stable"
+        "hlicense": "commercial"
     },
     "Tool Development Kit": {
         "author": "Ivan Titov",
         "source": "anvdev/Houdini_TDK",
         "source_type": "github",
         "hversion_range": "17+",
-        "hlicense": "commercial",
-        "status": "stable"
+        "hlicense": "commercial"
     },
     "Hammer": {
         "author": "Ivan Titov",
@@ -37,8 +35,7 @@
         "source": "pedohorse/hpaste",
         "source_type": "github",
         "hversion_range": "16+",
-        "hlicense": "commercial",
-        "status": "stable"
+        "hlicense": "commercial"
     },
     "Map Zoomer": {
         "author": "Anatolii Iudanov",
@@ -61,8 +58,7 @@
         "source": "toadstorm/MOPS",
         "source_type": "github",
         "hversion_range": "17+",
-        "hlicense": "commercial",
-        "status": "stable"
+        "hlicense": "commercial"
     },
     "qLib": {
         "visible": false,
@@ -70,8 +66,7 @@
         "source": "qLab/qLib",
         "source_type": "github",
         "hversion_range": "17.5.321+",
-        "hlicense": "commercial",
-        "status": "stable"
+        "hlicense": "commercial"
     },
     "PDG Mutagen": {
         "visible": false,
@@ -89,8 +84,7 @@
         "source": "MainRoadPost/houdini_configs",
         "source_type": "github",
         "hversion_range": "16.5+",
-        "hlicense": "commercial",
-        "status": "stable"
+        "hlicense": "commercial"
     },
     "Massive Toolkit": {
         "visible": false,
@@ -104,8 +98,7 @@
         "source": "DominikLingenover/DMNK-Tools",
         "source_type": "github",
         "hversion_range": "17.5+",
-        "hlicense": "commercial",
-        "status": "stable"
+        "hlicense": "commercial"
     },
     "Mantra Fog Shader": {
         "visible": false,
