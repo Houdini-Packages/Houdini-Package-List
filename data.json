@@ -1,7 +1,7 @@
 {
     "Package Manager": {
         "author": "Ivan Titov",
-        "source": "anvdev/Houdini-Package-Manager",
+        "source": "Houdini-Packages/Houdini-Package-Manager",
         "source_type": "github",
         "hversion": "16+",
         "hlicense": "commercial"
