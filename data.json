@@ -54,6 +54,7 @@
         "status": "prototype"
     },
     "MOPs": {
+        "visible": false,
         "author": "Henry Foster",
         "source": "toadstorm/MOPS",
         "source_type": "github",
