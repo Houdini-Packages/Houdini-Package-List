@@ -1,11 +1,4 @@
 {
-    "Package Manager": {
-        "author": "Ivan Titov",
-        "source": "Houdini-Packages/Houdini-Package-Manager",
-        "source_type": "github",
-        "hversion": "16+",
-        "hlicense": "commercial"
-    },
     "Tool Development Kit": {
         "author": "Ivan Titov",
         "source": "anvdev/Houdini_TDK",
