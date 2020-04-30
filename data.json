@@ -3,7 +3,7 @@
         "author": "Ivan Titov",
         "source": "anvdev/Houdini_TDK",
         "source_type": "github",
-        "hversion": "17+",
+        "hversion": "16+",
         "hlicense": "commercial"
     },
     "Hammer": {
@@ -15,10 +15,11 @@
         "status": "dev"
     },
     "Advanced VEX Library": {
+        "visible": false,
         "author": "Ivan Titov",
-        "source": "AdvancedVEXLibrary/Advanced-VEX-Library",
+        "source": "AdvancedVEXLibrary/AVL",
         "source_type": "github",
-        "hversion": "16.5+",
+        "hversion": "16+",
         "hlicense": "commercial",
         "status": "dev"
     },
