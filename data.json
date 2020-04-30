@@ -48,7 +48,6 @@
         "status": "prototype"
     },
     "MOPs": {
-        "visible": false,
         "author": "Henry Foster",
         "source": "toadstorm/MOPS",
         "source_type": "github",
@@ -56,7 +55,6 @@
         "hlicense": "commercial"
     },
     "qLib": {
-        "visible": false,
         "author": "qLab",
         "source": "qLab/qLib",
         "source_type": "github",
