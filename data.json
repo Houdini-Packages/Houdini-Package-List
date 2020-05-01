@@ -158,5 +158,13 @@
         "source_type": "github",
         "hversion": "16+",
         "hlicense": "commercial"
+    },
+    "External Editor": {
+        "visible": false,
+        "author": "Guillaume Jobst",
+        "source": "cgtoolbox/HoudiniExprEditor",
+        "source_type": "github",
+        "hversion": "16+",
+        "hlicense": "commercial"
     }
 }
