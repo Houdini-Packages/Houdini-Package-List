@@ -166,5 +166,13 @@
         "source_type": "github",
         "hversion": "16+",
         "hlicense": "commercial"
+    },
+    "Zync": {
+        "visible": false,
+        "author": "Zync",
+        "source": "zync/zync-houdini",
+        "source_type": "github",
+        "hversion": "16+",
+        "hlicense": "commercial"
     }
 }
