@@ -55,6 +55,7 @@
         "hlicense": "commercial"
     },
     "qLib": {
+        "visible": false,
         "author": "qLab",
         "source": "qLab/qLib",
         "source_type": "github",
@@ -134,6 +135,13 @@
         "source": "fxnut/hou_farm",
         "source_type": "github",
         "hversion": "16+",
+        "hlicense": "commercial"
+    },
+    "nLib": {
+        "author": "Njordy Jovanovich",
+        "source": "Njordy/nLib",
+        "source_type": "github",
+        "hversion": "*",
         "hlicense": "commercial"
     }
 }
