@@ -129,7 +129,7 @@
         "hlicense": "commercial",
         "status": "prototype"
     },
-    "Deadline farm submission tool": {
+    "Deadline Farm Submission Tool": {
         "visible": false,
         "author": "Andy Nicholas",
         "source": "fxnut/hou_farm",
@@ -147,6 +147,14 @@
     "Bento": {
         "author": "Takanori Kishikawa",
         "source": "takavfx/Bento",
+        "source_type": "github",
+        "hversion": "16+",
+        "hlicense": "commercial"
+    },
+    "Houdini to PBRT v3": {
+        "visible": false,
+        "author": "Jim Price",
+        "source": "shadeops/houdini-pbrt-v3",
         "source_type": "github",
         "hversion": "16+",
         "hlicense": "commercial"
