@@ -141,7 +141,14 @@
         "author": "Njordy Jovanovich",
         "source": "Njordy/nLib",
         "source_type": "github",
-        "hversion": "*",
+        "hversion": "16+",
+        "hlicense": "commercial"
+    },
+    "Bento": {
+        "author": "Takanori Kishikawa",
+        "source": "takavfx/Bento",
+        "source_type": "github",
+        "hversion": "16+",
         "hlicense": "commercial"
     }
 }
