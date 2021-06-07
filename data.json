@@ -7,6 +7,7 @@
         "hlicense": "commercial"
     },
     "Hammer": {
+        "visible": false,
         "author": "Ivan Titov",
         "source": "anvdev/Hammer-Tools",
         "source_type": "github",
