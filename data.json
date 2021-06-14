@@ -1,6 +1,7 @@
 {
-    "Tool Development Kit": {
+    "TDK": {
         "author": "Ivan Titov",
+        "description": "Tool Development Kit",
         "source": "anvdev/Houdini_TDK",
         "source_type": "github",
         "hversion": "16+",
