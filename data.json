@@ -75,7 +75,7 @@
         "root": "houdini"
     },
     "MRP Mantra Shaders": {
-        "visible": false,
+        "visible": true,
         "author": "Main Road Post",
         "source": "MainRoadPost/houdini_configs",
         "source_type": "github",
