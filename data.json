@@ -176,5 +176,21 @@
         "source_type": "github",
         "hversion": "16+",
         "hlicense": "commercial"
+    },
+    "Edit Parms": {
+        "visible": false,
+        "author": "Ivan Titov",
+        "source": "anvdev/Houdini_EditParms",
+        "source_type": "github",
+        "hversion": "16+",
+        "hlicense": "commercial"
+    },
+    "Auto Wedge": {
+        "visible": false,
+        "author": "Ivan Titov",
+        "source": "anvdev/Houdini_AutoWedge",
+        "source_type": "github",
+        "hversion": "17.5+",
+        "hlicense": "commercial"
     }
 }
